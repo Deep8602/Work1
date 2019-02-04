@@ -1,0 +1,4 @@
+# ignor .txt in Logs
+Logs/*.txt
+# ignor idea/*.xml
+.idea/*.xml
